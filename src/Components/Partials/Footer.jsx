@@ -28,7 +28,7 @@ export default function Footer() {
                                     </div>
                                     <div className="col-md-6 col-lg-6 col-xl-3">
                                         <div className="footer-item">
-                                            <h4 className="text-white mb-4">Useful Links</h4>
+                                            <h4 className="text-white mb-4">Useful Links !</h4>
                                             <Link className='text-light' to="/"><i className="fas fa-angle-right me-2"></i> Home</Link>
                                             <Link className='text-light' to="/about"><i className="fas fa-angle-right me-2"></i> About Us</Link>
                                             <Link className='text-light' to="/shop"><i className="fas fa-angle-right me-2"></i> Shop</Link>
